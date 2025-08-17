@@ -4,12 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product owner and Full-Stack Developer
 ------------------------------------
 
-Kicking off my career as a Biomedical Engineering intern at Michigan State University, I quickly advanced to a Senior Business Analyst, showcasing my ability to excel across disciplines. I've streamlined operations with a custom billing tracking system, boosted retail sales with a mobile POS solution, and developed ERP comprehensive app, integrating complex systems for strategic decision-making. Each project has fueled my growth and passion for leveraging technology to tackle business challenges.
+Kicking off my career as a Biomedical Engineering exchange intern at Michigan State University (MSU), I soon pivoted into the software industry, combining technical depth with business strategy. I later joined a software house, where I had the opportunity to collaborate with leading organizations such as Banyan Tree Group, Toyota, Rama Hospital, and others, building enterprise-scale solutions ranging from ERP platforms to POS and WMS systems. Afterwards, I moved to AIS as a System Architect, then to Ascend Group as a Product Owner / Senior Analyst, driving product roadmaps and aligning business with technology at scale. Today, I’m channeling that journey into my own venture — Uplift Technology Limited, a software company dedicated to crafting tailored digital solutions that empower businesses to scale with confidence.
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My world](http://anonweb-825de.web.app/)
-* ✉️  You can contact me at [mr.anonsuphatphon@gmail.com](mailto:mr.anonsuphatphon@gmail.com)
-* 🧠  I'm learning Master degree of Software Engineering
+* 🌍 Based in Bangkok, Thailand – working across business & technology fields
+* 🎓 B.Eng. Biomedical Engineering (International Program) – King Mongkut’s Institute of Technology Ladkrabang
+* 🏆 Awarded 2M THB National Research Funding (NRCT) – Developed an AI-powered presymptomatic COVID-19 detection app using vital signs
+* 🌐 Exchange Researcher at Michigan State University (Top US University) – Specialized in AI–Medical Data & Biophotonics
+* 🎓 MBA in Business Administration – King Mongkut’s Institute of Technology Ladkrabang
+* 🎓 M.Sc. in Software Engineering – Woolf University
+* 🖥️ Explore my portfolio: My World
+* ✉️ Contact me: mr.anonsuphatphon@gmail.com
 
 ### Skills
 
