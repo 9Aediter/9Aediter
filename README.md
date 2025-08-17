@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 9Aediter
 ================================================================================================================================
 
-Product owner and Frontend Developer
+Product owner and Full-Stack Developer
 ------------------------------------
 
 Kicking off my career as a Biomedical Engineering intern at Michigan State University, I quickly advanced to a Senior Business Analyst, showcasing my ability to excel across disciplines. I've streamlined operations with a custom billing tracking system, boosted retail sales with a mobile POS solution, and developed ERP comprehensive app, integrating complex systems for strategic decision-making. Each project has fueled my growth and passion for leveraging technology to tackle business challenges.
